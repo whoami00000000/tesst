@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Redi express</string>
+    <string name="onboarding1title">Quick Delivery At Your Doorstep</string>
+    <string name="onboarding2title">Flexible Payment</string>
+    <string name="onboarding3title">Real-time Tracking</string>
+
+    <string name="onboarding1desc">Enjoy quick pick-up and delivery to your destination</string>
+    <string name="onboarding2desc">Different modes of payment either before and after delivery without stress</string>
+    <string name="onboarding3desc">Track your packages/items from the comfort of your home till final destination</string>
+
+    <string name="btnNext">Next</string>
+    <string name="btnSkip">Skip</string>
+    <string name="btnSignUp">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
